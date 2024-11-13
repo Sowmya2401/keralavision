@@ -1,0 +1,84 @@
+.kerala
+    {
+        color: blue;
+    }
+.borodband
+    {
+        color: brown;
+    }
+.text
+    {
+        height: 170px;
+        width: 100%;
+        background-color: black;
+        color: white;
+    }   
+.heading
+    {
+        align-content: center;
+    }
+.content
+    {
+        margin-left: 250px;
+        margin-right: 250px;
+    }
+.font
+    {
+        font-size: 70px;
+        color: blue;
+    }
+.card1 
+    {
+        background-image: url(image/img.7.webp);
+        height: 600px;
+        width: 33%;
+        color: white;
+        text-align: center;
+        padding-top: 290px;
+    }
+.card2
+    {
+        background-image: url(image/img.8.webp);
+        height: 600px;
+        width: 33%;
+        color: white;
+        text-align: center;
+        padding-top: 290px;
+    }
+.card3
+    {
+        background-image: url(image/img.9.webp);
+        height: 600px;
+        width: 33%;
+        color: white;
+        text-align: center;
+        padding-top: 290px;
+    }
+.text-2
+    {
+        height: 400px;
+        width: 100%;
+        background-color: black;
+        color: white; 
+    }
+.content2
+    {
+        margin-left: 250px;
+        margin-right: 250px;
+    }
+.footer
+    {
+        margin-left: 80px;
+        margin-right: 80px;
+    }
+.footer-2
+    {
+        background-color: black;
+        color: whitesmoke;
+        padding-top: 60px;
+        height: 500px;
+        width: 100%;
+        padding-left: 90px;
+    }
+   
+        
